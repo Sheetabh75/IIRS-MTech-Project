@@ -35,7 +35,7 @@ For example, <br/>
 <br/>
 <b>Step 5 :</b>  To start model training, run the script "aves_cnnmodel.py" to start training of CNN model. This script will import and run "aves_dataloader.py" script before running the "aves_cnnmodel.py" script. Similarily run cnnmodel scripts for other super-classes to start training.<br/> 
 <br/>
-<b>Step 6 :</b> In order to directly test the model using already trained and saved model file, directly run the script "aves_testmodel.py". Make sure to specify the correct path of saved model in load_model function in testmodel script. <br/>
+<b>Step 6 :</b> In order to directly test the model using already trained and saved model file, skip step 5 and directly run the script "aves_testmodel.py". Make sure to specify the correct path of saved model in load_model function in testmodel script. <br/>
 Trained model files are located in folder "MTech_Project/Models".
 <br/>
 
