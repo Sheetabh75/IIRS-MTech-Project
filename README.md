@@ -24,7 +24,7 @@ Test - MTech_Project/Dataset/Animalia/Test <br/>
 Train - MTech_Project/Dataset/Protozoa/Train <br/>
 Test - MTech_Project/Dataset/Protozoa/Test <br/>
 <br />
-<b>Step 3 :</b> Create a conda environment using the "MainProject.yml" file and activate that environment. YML file is located in home directory "home/sheetabhg/"  <br/>
+<b>Step 3 :</b> Create a conda environment using the "MainProject.yml" file and activate that environment. YML file is located at "MTech_Project/MainProject.yml"  <br/>
 <br/>
 <b>Step 4 :</b> Navigate to folder "MTech_Project/Scripts" where all the scripts exist. <br/>
 For each super-class, 3 scripts are created - dataloader, cnnmodel, testmodel. <br/>
