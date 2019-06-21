@@ -1,6 +1,11 @@
 # IIRS-MTech-Project
 Final year MTech Project (2018-19) - CNN based species identification application
 <br/>
+This project was carried out for identification of species from following for super-classes: <br/>
+1. Butterfly - 22 species
+2. Protozoa - 5 species
+3. Animalia - 5 species
+4. Aves - 9 species <br/>
 <br/>
 <b>Step 1 :</b> Navigate to "MTech_Project" folder in home directory - "/home/sheetabhg/MTech_Project"<br/>
 Separate folders are set-up for dataset, scripts and models for 4 different super-classes.<br/>
